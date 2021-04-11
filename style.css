@@ -1,0 +1,37 @@
+.tim {
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+body { text-align: center;
+    
+}
+
+
+#lee { font-size: 50px;
+    font-family: monospace; 
+ 
+}
+
+
+#berner {background-color: aquamarine;
+height: 800px;
+opacity: 0.83;}
+
+.line { height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+
+}
+
+
+#feel {font-size: 20px;
+    font-family: sans-serif;
+    
+     }
+
+
+h1 {font-size: 40px;
+font-family: fantasy;}
